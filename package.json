@@ -1,0 +1,8 @@
+{
+  "name": "no-cra-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gittmaan/no-cra-react.git",
+  "author": "gittmaan <girishptryambakee@gmail.com>",
+  "license": "MIT"
+}
